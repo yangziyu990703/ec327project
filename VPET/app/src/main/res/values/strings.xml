@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">VPET</string>
+
+    <string name="hunger">Hunger</string>
+
+    <string name="bmi_21">BMI : 21</string>
+
+    <string name="weight_60kg">Weight : 60kg</string>
+
+    <string name="hello_world">Hello world</string>
+
+    <string name="feed">Feed</string>
+
+    <string name="edit">Edit</string>
+
+    <string name="height">Height :</string>
+
+    <string name="weight">Weight :</string>
+
+    <string name="bmi">BMI：</string>
+
+    <string name="hint_height">Please input your height (m)</string>
+
+    <string name="hint_weight">Please input your weight (kg)</string>
+
+    <string name="Edit">Physical Parameters</string>
+
+    <string name="back">Confirm!</string>
+
+    <string name="text1">TextView</string>
+
+    <string name="text2">TextView</string>
+
+    <string name="text3">TextView</string>
+
+    <string name="hint_calories1">How much calories you intake for the last meal?</string>
+
+    <string name="hint_calories2">(How much you intake is how much your virtual pet intake!)</string>
+
+    <string name="hint_intake">You intake: </string>
+
+    <string name="hint_confirm">Confirm!</string>
+
+    <string name="instruction">\tThis calorie calculator displays your body condition on the avatar. You may set your height and weight in "Edit" tab at any time, and this will also be the parameters of your avatar. It’s appearance and BMI value tells your health condition. \n\tThis program also calculates the calories you should intake everyday according to your weight. This will be the maximum value of the "Hunger" bar. You can reset Stomach bar at anytime. By clicking on "Feed" button, you can enter the calories you intake at any time, which decreases the hunger value exactly by the calorie value. If the "Hunger" bar goes to 0, you’ve eaten too much today. By clicking on the avatar, it will has some conversation with you. \n\tPlay with the virtual avatar game and monitor your body condition meanwhile!</string>
+
+    <string name="to_main">Confirm!</string>
+    <string name="reset">reset</string>
+    <string name="intro">Intro</string>
+    <string name="stomach">Stomach</string>
+    <string name="todo">TODO</string>
+
+</resources>
